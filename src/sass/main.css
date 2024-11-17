@@ -489,14 +489,6 @@ body {
   color: #918581;
 }
 
-.pag-current {
-  color: #1e1e1e;
-  font-weight: bold;
-  position: absolute;
-  top: 50%;
-  font-size: large;
-}
-
 .recipe {
   background-color: #f9f5f3;
 }
