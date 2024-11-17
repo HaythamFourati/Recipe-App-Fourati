@@ -27,6 +27,11 @@
       float: right;
     }
   }
+  &_current{
+    color: #1e1e1e;
+    font-weight: bold;
+    font-size: 1.2em;
+  }
 }
 
 .copyright {
@@ -39,4 +44,12 @@
   .twitter-link:visited {
     color: $color-grey-dark-2;
   }
+}
+
+.pag-current{
+  color: #1e1e1e;
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  font-size: large;
 }
